@@ -151,3 +151,4 @@ C:\Users\jonat\www\TodoList\obj\Debug\net8.0\refint\TodoList.dll
 C:\Users\jonat\www\TodoList\obj\Debug\net8.0\TodoList.pdb
 C:\Users\jonat\www\TodoList\obj\Debug\net8.0\TodoList.genruntimeconfig.cache
 C:\Users\jonat\www\TodoList\obj\Debug\net8.0\ref\TodoList.dll
+C:\Users\jonat\www\TodoList\obj\Debug\net8.0\TodoList.sourcelink.json
